@@ -20,9 +20,9 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
 -Diploma in English (2022-2023)
 
- Esoft Metro Campus
-
- #### Secondary Education
+ Esoft Metro Campus 
+ 
+ ### Secondary Education
 
  -GCE A/L Examination - 2021
  
