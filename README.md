@@ -12,13 +12,13 @@
 
 ### Higher Education
 
--BSc (Honors) in BIOTECHNOLOGY (2023-2027)
+-BSc (Honors) in Biotechnology (2023-2027)
 
 Sri Lanka Institute of Information Technology (SLIIT)
  
--DIPLOMA in INFORMATION TECHNOLOGY
+-Diploma in Information Technology
 
--DIPLOMA IN ENGLISH (2022-2023)
+-Diploma in English (2022-2023)
 
  Esoft Metro Campus
 
@@ -45,6 +45,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 -Experimenting with new laboratory techniques
 
 -Volunteering for Science education
+
 -Gardening
 
  
