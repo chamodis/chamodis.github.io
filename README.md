@@ -4,9 +4,9 @@
 
    -Chamodi Samaraweera
 
-  -0768656523
+   -0768656523
 
-  -chamodiksamaraweera@gmail.com
+   -chamodiksamaraweera@gmail.com
 
 ## Educational Qualifications
 
@@ -35,6 +35,7 @@
      -General English-A
 
 ## Skills
+
     -Team work
  
     -Proficiency in MS word
@@ -42,6 +43,7 @@
     -Time management
  
 ## Hobbies
+
    -Experimenting with new laboratory techniques
 
    -Volunteering for Science education
@@ -49,5 +51,6 @@
    -Gardening
 
 ## Want to know more about me
+[As1 HS23192164 R.P.C.K.SAMARAWEERA.pdf](https://github.com/chamodis/chamodis.github.io/files/13299859/As1.HS23192164.R.P.C.K.SAMARAWEERA.pdf)
 
-  https://github.com/chamodis/chamodis.github.io/blob/5406e14b1338ce317630125d871b38d4415581b8/As1%20HS23192164%20R.P.C.K.SAMARAWEERA.pdf
+ 
