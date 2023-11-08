@@ -22,7 +22,7 @@ Sri Lanka Institute of Information Technology (SLIIT)
 
  Esoft Metro Campus
 
- ### Secondary Education
+ #### Secondary Education
 
  -GCE A/L Examination - 2021
  
