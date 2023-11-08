@@ -44,13 +44,12 @@
  
 ## Hobbies
 
-   -Experimenting with new laboratory techniques
+      -Experimenting with new laboratory techniques
 
-   -Volunteering for Science education
+      -Volunteering for Science education
 
-   -Gardening
+      -Gardening
 
 ## Want to know more about me
-[As1 HS23192164 R.P.C.K.SAMARAWEERA.pdf](https://github.com/chamodis/chamodis.github.io/files/13299859/As1.HS23192164.R.P.C.K.SAMARAWEERA.pdf)
 
- 
+[As1 HS23192164 R.P.C.K.SAMARAWEERA.pdf](https://github.com/chamodis/chamodis.github.io/files/13299937/As1.HS23192164.R.P.C.K.SAMARAWEERA.pdf)
