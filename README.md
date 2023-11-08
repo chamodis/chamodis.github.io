@@ -1,53 +1,53 @@
-## Biotechnology Undergraduate
+## **Biotechnology Undergraduate**
 
 ## About me
 
--Chamodi Samaraweera
+   -Chamodi Samaraweera
 
--0768656523
+  -0768656523
 
--chamodiksamaraweera@gmail.com
+  -chamodiksamaraweera@gmail.com
 
 ## Educational Qualifications
 
 ### Higher Education
 
--BSc (Honors) in Biotechnology (2023-2027)
+   **-BSc (Honors) in Biotechnology (2023-2027)**
 
-Sri Lanka Institute of Information Technology (SLIIT)
+   Sri Lanka Institute of Information Technology (SLIIT)
  
--Diploma in Information Technology
+   **-Diploma in Information Technology**
 
--Diploma in English (2022-2023)
+   **-Diploma in English (2022-2023)**
 
- Esoft Metro Campus 
+    Esoft Metro Campus 
  
 ### Secondary Education
 
- -GCE A/L Examination - 2021
+   **GCE A/L Examination - 2021**
  
-   -Biology -S
+     -Biology -S
    
-   -Chemistry. -C
+     -Chemistry. -C
    
-   -Physics -C
+     -Physics -C
    
-   -General English-A
+     -General English-A
 
 ## Skills
- -Team work
+    -Team work
  
- -Proficiency in MS word
+    -Proficiency in MS word
  
- -Time management
+    -Time management
  
 ## Hobbies
--Experimenting with new laboratory techniques
+   -Experimenting with new laboratory techniques
 
--Volunteering for Science education
+   -Volunteering for Science education
 
--Gardening
+   -Gardening
 
 ## Want to know more about me
 
-https://github.com/chamodis/chamodis.github.io/blob/5406e14b1338ce317630125d871b38d4415581b8/As1%20HS23192164%20R.P.C.K.SAMARAWEERA.pdf
+  https://github.com/chamodis/chamodis.github.io/blob/5406e14b1338ce317630125d871b38d4415581b8/As1%20HS23192164%20R.P.C.K.SAMARAWEERA.pdf
