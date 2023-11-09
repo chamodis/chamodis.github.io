@@ -1,12 +1,12 @@
-## **Biotechnology Undergraduate**
+## **CHAMODI SAMARAWEERA**
 
-## About me
-
-   -Chamodi Samaraweera
+## Contact
 
    -0768656523
 
    -chamodiksamaraweera@gmail.com
+
+   -65,Kurunduwatta,Induragara road,Dunagaha.
 
 ## Educational Qualifications
 
