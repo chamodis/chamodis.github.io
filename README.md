@@ -2,29 +2,29 @@
 
 ## Contact
 
-   -0768656523
+   - 0768656523
 
-   -chamodiksamaraweera@gmail.com
+   - chamodiksamaraweera@gmail.com
 
-   -65,Kurunduwatta,Induragara road,Dunagaha.
+   - 65,Kurunduwatta,Induragara road,Dunagaha.
 
 ## Educational Qualifications
 
 ### _Higher Education_
 
-   **-BSc (Honors) in Biotechnology (2023-2027)**
+   **- BSc (Honors) in Biotechnology (2023-2027)**
 
       Sri Lanka Institute of Information Technology (SLIIT)
  
-   **-Diploma in Information Technology**
+   **- Diploma in Information Technology**
 
-   **-Diploma in English (2022-2023)**
+   **- Diploma in English (2022-2023)**
 
     Esoft Metro Campus 
  
 ### _Secondary Education_
 
-   **GCE A/L Examination - 2021**
+   **- GCE A/L Examination - 2021**
  
      -Biology -S
    
@@ -36,19 +36,19 @@
 
 ## Skills
 
-    -Team work
+    - Team work
  
-    -Proficiency in MS word
+    - Proficiency in MS word
  
-    -Time management
+    - Time management
  
 ## Hobbies
 
-      -Experimenting with new laboratory techniques
+      - Experimenting with new laboratory techniques
 
-      -Volunteering for Science education
+      - Volunteering for Science education
 
-      -Gardening
+      - Gardening
 
 ## _Want to know more about me_
 
