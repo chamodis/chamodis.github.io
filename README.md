@@ -10,11 +10,11 @@
 
 ## Educational Qualifications
 
-### Higher Education
+### _Higher Education_
 
    **-BSc (Honors) in Biotechnology (2023-2027)**
 
-   Sri Lanka Institute of Information Technology (SLIIT)
+      Sri Lanka Institute of Information Technology (SLIIT)
  
    **-Diploma in Information Technology**
 
@@ -22,7 +22,7 @@
 
     Esoft Metro Campus 
  
-### Secondary Education
+### _Secondary Education_
 
    **GCE A/L Examination - 2021**
  
@@ -50,6 +50,6 @@
 
       -Gardening
 
-## Want to know more about me
+## _Want to know more about me_
 
 [As1 HS23192164 R.P.C.K.SAMARAWEERA.pdf](https://github.com/chamodis/chamodis.github.io/files/13299937/As1.HS23192164.R.P.C.K.SAMARAWEERA.pdf)
